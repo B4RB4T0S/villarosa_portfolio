@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/villarosa_portfolio/static/css/main.c10a678f.css",
+    "main.js": "/villarosa_portfolio/static/js/main.eb456ece.js",
+    "index.html": "/villarosa_portfolio/index.html",
+    "main.c10a678f.css.map": "/villarosa_portfolio/static/css/main.c10a678f.css.map",
+    "main.eb456ece.js.map": "/villarosa_portfolio/static/js/main.eb456ece.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c10a678f.css",
+    "static/js/main.eb456ece.js"
+  ]
+}
